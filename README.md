@@ -16,7 +16,7 @@
 1. โคลนโปรเจกต์:
 
     ```bash
-    git clone https://github.com/yourusername/band-name-generator.git
+    git clone https://github.com/nawapon2544/python-band-name-generator.git
     ```
 
 2. เข้าสู่ไดเรกทอรีของโปรเจกต์:
